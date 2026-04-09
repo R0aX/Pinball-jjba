@@ -8,7 +8,7 @@ A high-speed, stylized pinball game built with Python and Pygame, themed after *
 
 | **Evolution of Play** |
 | :--- | :--- |
-| ![Image 1](scorea.png) | ![Image 2](scoreb.png) |
+| ![Image 1](scorea.png) |
 | *Mastering the flipper timing.* | *Navigating complex platform layouts.* |
 
 ---
