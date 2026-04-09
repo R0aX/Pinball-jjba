@@ -8,7 +8,7 @@ A high-energy, **JoJo's Bizarre Adventure** themed pinball game built with Pytho
 
 | **Level 2 // Gen 1** | **Level 2 // Gen 9** | **Level 5 // Gen 1** |
 | :--- | :--- | :--- |
-| ![Gen 1](a.jpg) | ![Gen 9](b.jpg) | ![Lvl 5](c.jpg) |
+| ![Gen 1](a.png) | ![Gen 9](b.png) | ![Lvl 5](c.png) |
 | *Initial setup and early testing.* | *Advanced physics and bumper placement.* | *Complex obstacle layouts for higher difficulty.* |
 
 ---
